@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "blender": {
+      "command": "uvx",
+      "args": ["--with", "mcp<2", "blender-mcp"],
+      "lifecycle": "keep-alive"
+    }
+  }
+}
