@@ -11,7 +11,7 @@ Read `docs/brief.md` before planning or editing.
 ## Stack
 - TypeScript, Next.js 16 App Router, React 19, Tailwind CSS.
 - Three.js through React Three Fiber and Drei.
-- The model lives at `app/public/models/ai-core.glb`.
+- The model lives at `public/models/ai-core.glb`.
 
 
 
@@ -21,7 +21,7 @@ Read `docs/brief.md` before planning or editing.
 3. Do not add remote assets, analytics, auth, a database or a CMS.
 4. Keep 3D code inside a client component.
 5. Support 390 px mobile width and reduced motion.
-6. Before finishing, run `npm run lint` and `npm run build` inside `app`.
+6. Before finishing, run `npm run lint` and `npm run build` in the project root.
 
 
 
